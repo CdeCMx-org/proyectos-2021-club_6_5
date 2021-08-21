@@ -74,4 +74,3 @@ Esta calculadora, pretende facilitar la evaluación del potencial de un compuest
 - Vianca Valeria Castillejos Rincón
   Tecnológico de Monterrey
 
-`<img src="Logo_CdeCMx.png" width=200>`
