@@ -1,12 +1,14 @@
-# **Los fármacos después de Lipinsky**
+# **Los fármacos después de Lipinski**
 
 Hace veinte años, un químico curioso y apasionado por su trabajo, revolucionó el descubrimiento de nuevos fármacos. Su nombre es **Crhistopher Lipinski** y su _Regla de los cinco_ constituye hoy en día el primer paso para evaluar el potencial de cualquier compuesto para ser procesado de manera adecuada por el cuerpo humano. 
 
 ![Image](src https://dlnxb30bca8mp.cloudfront.net/wp-content/uploads/2019/08/Lipinski-2.jpg)
 
-El Dr. Lipinsky se apasionó p _"Advanced Drug Delivery Reviews"_ 
+El Dr. Lipinski se apasionó p _"Advanced Drug Delivery Reviews"_ 
 
 
+
+# **Evaluar para decidir, decidir para elegir**
 ```markdown
 
 #Variable que guarda la regla de donadores de enlaces de hidrógenos
@@ -41,6 +43,15 @@ if logP <= 5:
 else:
    print('No cumple con las reglas')
 ```
+
+
+### Referencias
+- Chris Lipinski. Nat Rev Drug Discov 4, 184 (2005). https://doi.org/10.1038/nrd1686
+- Dr. Christopher A. Lipinski. Melior Discovery. 2021. https://www.meliordiscovery.com/christopher-lipinski/
+
+
+
+
 
 You can use the [editor on GitHub](https://github.com/CdeCMx-org/proyectos-2021-club_6_5/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
