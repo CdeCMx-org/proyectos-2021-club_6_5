@@ -2,7 +2,7 @@
 
 Hace veinte años, un químico curioso y apasionado por su trabajo, revolucionó el descubrimiento de nuevos fármacos. Su nombre es **Crhistopher Lipinski** y su _Regla de los cinco_ constituye hoy en día el primer paso para evaluar el potencial de cualquier compuesto para ser procesado de manera adecuada por el cuerpo humano. 
 
-![Image](src https://dlnxb30bca8mp.cloudfront.net/wp-content/uploads/2019/08/Lipinski-2.jpg)
+![Image](https://dlnxb30bca8mp.cloudfront.net/wp-content/uploads/2019/08/Lipinski-2.jpg)
 
 El Dr. Lipinski es un ejemplo del poder de una persona que disfruta su profesión. En 2005 publicó  _"Advanced Drug Delivery Reviews"_, texto que se ha convertido en el texto químico más citado en la actualidad, principalmente haciendo referencia a la _Regla de los cinco_, misma que llego a la comunidad científica en este documento. 
 
