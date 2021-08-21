@@ -4,8 +4,15 @@ Hace veinte años, un químico curioso y apasionado por su trabajo, revolucionó
 
 ![Image](src https://dlnxb30bca8mp.cloudfront.net/wp-content/uploads/2019/08/Lipinski-2.jpg)
 
-El Dr. Lipinski se apasionó p _"Advanced Drug Delivery Reviews"_ 
+El Dr. Lipinski es un ejemplo del poder de una persona que disfruta su profesión. En 2005 publicó  _"Advanced Drug Delivery Reviews"_, texto que se ha convertido en el texto químico más citado en la actualidad, principalmente haciendo referencia a la _Regla de los cinco_, misma que llego a la comunidad científica en este documento. 
 
+# **Cinco, el número de la suerte**
+
+La hoy famosa _Regla de los cinco_ establece las reglas empíricas que un fármaco debe cumplir para llegar a ser utilizados como medicinas. Las reglas establecen que:
+1. Debe tener un peso molecular inferior a 500 g/mol.
+2. No debe tener más de cinco donadores de puentes de hidrógeno. 
+3. No debe tener más de 10 aceptores de puentes de hidrógeno. 
+4. Debe tener un partición octanol-agua (logP) inferior a 5.
 
 
 # **Evaluar para decidir, decidir para elegir**
@@ -46,8 +53,8 @@ else:
 
 
 ### Referencias
-- Chris Lipinski. Nat Rev Drug Discov 4, 184 (2005). (https://doi.org/10.1038/nrd1686)
-- Dr. Christopher A. Lipinski. Melior Discovery. 2021. (https://www.meliordiscovery.com/christopher-lipinski/)
+- Chris Lipinski. Nat Rev Drug Discov 4, 184 (2005). [Link](https://doi.org/10.1038/nrd1686)
+- Dr. Christopher A. Lipinski. Melior Discovery. 2021. [Link](https://www.meliordiscovery.com/christopher-lipinski/)
 
 
 
