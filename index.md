@@ -79,9 +79,12 @@ Esta calculadora, pretende facilitar la evaluación del potencial de un compuest
 ### Integrantes del equipo
 - Karla Pineda López
 
+
   Biomedicina
   
+  
   Benemérita Universidad Autónoma de Puebla
+  
   
   Contacto: pinedalopezkarla@gmail.com
   
@@ -89,9 +92,12 @@ Esta calculadora, pretende facilitar la evaluación del potencial de un compuest
   
 - Vianca Valeria Castillejos Rincón
 
+
   Tecnológico de Monterrey
   
+  
   Contacto: viancarincon@outlook.com
+
 
 <img src="Logo_CdeCMx.png" width=200>
 
