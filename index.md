@@ -112,8 +112,5 @@ Respetuosamente: Vianca y Karla
 
   <img src="R.png" width=150>
   
-  
-  
 
-<img src="Logo_CdeCMx.png" width=200>  <img src="51e2d4f5eec5aca8414739932d81e26b7749bf12.png" width=150>
 
