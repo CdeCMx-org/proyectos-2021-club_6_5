@@ -1,4 +1,4 @@
-**Las reglas de Lipinski en la producción de fármacos
+# **Las reglas de Lipinski en la producción de fármacos**
 
 You can use the [editor on GitHub](https://github.com/CdeCMx-org/proyectos-2021-club_6_5/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
