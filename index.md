@@ -100,7 +100,6 @@ Respetuosamente: Vianca y Karla
   Contacto: pinedalopezkarla@gmail.com
   
   
-  
 - Vianca Valeria Castillejos Rincón
 
   Tecnológico de Monterrey
@@ -109,7 +108,7 @@ Respetuosamente: Vianca y Karla
 
   
   
-  <img src="Logo_CdeCMx.png" width=400>   <img src="51e2d4f5eec5aca8414739932d81e26b7749bf12.png" width=150>   <img src="R.png" width=150>
+  <img src="Logo_CdeCMx.png" width=100>   <img src="51e2d4f5eec5aca8414739932d81e26b7749bf12.png" width=150>   <img src="R.png" width=150>
   
 
 
