@@ -72,7 +72,12 @@ Ahora ya sabes que no cualquier molécula es candidata para convertirse potencia
 <img src="nouveau-medicament.jpg" width=600>
 
 # **Al final, la ciencia se toma su tiempo**
-Estimado lector, para finalizar su paso por esta plataforma y que entender que la ciencia no se desarrolla en un par de días y la paciencia es la mejor virtud
+Para finalizar el paso por esta plataforma, al amable lector le queremos recordar que la ciencia no se desarrolla en un par de días, la paciencia es la mejor virtud que puede tener quién se dedica y está inmerso en el mundo científico, tampoco está demás decir que sin duda en ocasiones no encontramos lo que buscamos, que nos puede tomar muchos años buscar una respuesta que quizá no sea la que esperamos, pero al final, la ciencia se toma su tiempo para brindarte grandes satisfacciones y del mismo modo, brindarlas tu como científico al mundo entero.
+
+
+Respetuosamente: Vianca y Karla
+
+
 
 ### Video
 
