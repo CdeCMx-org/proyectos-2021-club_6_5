@@ -78,7 +78,9 @@ Esta calculadora, pretende facilitar la evaluación del potencial de un compuest
 
 ### Integrantes del equipo
 - Karla Pineda López
-    Biomedicina 
+-
+    Biomedicina
+    
      Benemérita Universidad Autónoma de Puebla
       Contacto: pinedalopezkarla@gmail.com
   
