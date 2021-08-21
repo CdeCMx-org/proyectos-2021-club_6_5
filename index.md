@@ -15,6 +15,39 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
+
+#Variable que guarda la regla de donadores de enlaces de hidrógenos
+dH = input('Número de donadores de enlaces de hidrógenos: ')
+dH = int(dH)
+if dH <= 5:
+  print('Cumple con las reglas')
+else:
+  print('No cumple con las reglas')
+
+#Variable que guarda la regla de aceptores de enlaces de hidrógenos
+aH = input('Número de aceptores de enlaces de hidrógenos: ')
+aH = int(aH)
+if aH <= 10:
+  print('Cumple con las reglas')
+else:
+  print('No cumple con las reglas')
+
+#Variable que guarda la regla del peso molecular
+pM = input('Peso molecular en Da: ')
+pM = int(pM)
+if pM <= 500:
+  print('Cumple con las reglas')
+else:
+  print('No cumple con las reglas')
+
+#Variable que guarda el coeficiente de reparto octanol-agua
+logP = input('Coeficiente de partición logP: ')
+logP = int(logP)
+if logP <= 5:
+  print('Cumple con las reglas')
+else:
+   print('No cumple con las reglas')
+
 Syntax highlighted code block
 
 # Header 1
