@@ -91,7 +91,7 @@ Respetuosamente: Vianca y Karla
 
 
 ### Integrantes del equipo
-- Karla Pineda López
+- Karla Adriana Pineda López
 
   Biomedicina
   
