@@ -69,7 +69,7 @@ Esta calculadora, pretende facilitar la evaluación del potencial de un compuest
 # **Después de la evaluación:**
 Ahora ya sabes que no cualquier molécula es cádidata para convertirse potencialmente en un fármaco, al cumplir con los requisitos ya mencionados aseguras que pase un filtro, no obstante, el camino que sigue es aún largo porque aún con las reglas de lipinski cumplidas, la mólecula tambien tiene que ser: selectiva, potente modulador sobre su diana, evaluar su administración, distribución, metabolismo y excresión, así como determinar su toxicidad y los efectos secundarios que provocan en los diferentes organismos, para después realizar pruebas en grupos de poblaciones.
 
-<img src="nouveau-medicament.jpg" width=400>
+<img src="nouveau-medicament.jpg" width=600>
 
 # **Al final, la ciencia se toma su tiempo**
 Estimado lector, para finalizar su paso por esta plataforma y que entender que la ciencia no se desarrolla en un par de días y la paciencia es la mejor virtud
