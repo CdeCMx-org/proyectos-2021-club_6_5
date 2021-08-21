@@ -122,4 +122,4 @@ Respetuosamente: Vianca y Karla
   
   Contacto: pinedalopezkarla@gmail.com
 
-  <img src="Logo_CdeCMx.png" width=180>   <img src="51e2d4f5eec5aca8414739932d81e26b7749bf12.png" width=150>
+  <img src="Logo_CdeCMx.png" width=180>   <img src="51e2d4f5eec5aca8414739932d81e26b7749bf12.png" width=130>
