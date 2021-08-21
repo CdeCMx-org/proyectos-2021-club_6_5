@@ -8,14 +8,18 @@ El Dr. Lipinski es un ejemplo del poder de una persona que disfruta su profesió
 
 # **Cinco, el número de la suerte**
 
-La hoy famosa _Regla de los cinco_ establece las reglas empíricas que un fármaco debe cumplir para llegar a ser utilizados como medicinas. Las reglas establecen que:
+La hoy famosa _Regla de los cinco_ establece las reglas empíricas que un fármaco debe cumplir para llegar a ser utilizado como medicina. Las reglas establecen que:
 1. Debe tener un peso molecular inferior a 500 g/mol.
 2. No debe tener más de cinco donadores de puentes de hidrógeno. 
 3. No debe tener más de 10 aceptores de puentes de hidrógeno. 
 4. Debe tener un partición octanol-agua (logP) inferior a 5.
 
+Como se puede observar, cada regla incluye un parámetro que es múltiplo de cinco, factor que dio origen al nombre de la regla misma. Estas reglas, se han convertido en la base para la evaluación del potencial de un fármaco para convertirse en medicina. Su importancia radica en que permite diferenciar fácilmente los compuestos sin probabilidad de éxito de aquellos que son viables, lo que a su vez brinda la posibilidad de enfocar las pruebas físicas y biológicas en fármacos que el cuerpo humano es capaz de procesar y utilizar para su beneficio.
 
-# **Evaluar para decidir, decidir para elegir**
+
+# **Evaluar para elegir, elegir para decidir**
+
+
 ```markdown
 
 #Variable que guarda la regla de donadores de enlaces de hidrógenos
