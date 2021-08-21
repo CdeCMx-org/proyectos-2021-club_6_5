@@ -75,6 +75,7 @@ Esta calculadora, pretende facilitar la evaluación del potencial de un compuest
   Tecnológico de Monterrey
 
 <img src="Logo_CdeCMx.png" width=200>
-![Image](https://static7.innoget.com/uploads/51e2d4f5eec5aca8414739932d81e26b7749bf12.png)
+![51e2d4f5eec5aca8414739932d81e26b7749bf12](https://user-images.githubusercontent.com/89283609/130334229-9c2017e8-5a87-4469-9700-b64e2a678aea.png)
+
 
 
