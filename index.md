@@ -62,9 +62,8 @@ Esta calculadora, pretende facilitar la evaluación del potencial de un compuest
 
 
 ### Video
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PLj1-CMNERM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-[nuestro video](https://youtu.be/rmXvlBPq24Q)
+[Da click aquí para acceder a nuestro video](https://youtu.be/rmXvlBPq24Q)
 
 
 ### Referencias
