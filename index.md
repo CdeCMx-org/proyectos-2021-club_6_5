@@ -91,26 +91,22 @@ Respetuosamente: Vianca y Karla
 
 
 ### Integrantes del equipo
+
+<img src="Logo_CdeCMx.png" width=100>
+
 - Karla Adriana Pineda López
 
-  Biomedicina
-  
-  Benemérita Universidad Autónoma de Puebla
+  Lic en Biomedicina, Instituto de Fisiología, Benemérita Universidad Autónoma de Puebla
   
   Contacto: pinedalopezkarla@gmail.com
   
-  
+<img src="51e2d4f5eec5aca8414739932d81e26b7749bf12.png" width=100>
   
 - Vianca Valeria Castillejos Rincón
 
   Tecnológico de Monterrey
   
   Contacto: viancarincon@outlook.com
-
-
-<img src="Logo_CdeCMx.png" width=200>
-
-<img src="51e2d4f5eec5aca8414739932d81e26b7749bf12.png" width=150>
 
 <img src="R.png" width=150>
 
