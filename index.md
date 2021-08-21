@@ -1,8 +1,3 @@
-<link rel="preconnect" href="https://fonts.googleapis.com">
-<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Nanum+Gothic&display=swap" rel="stylesheet">
-
-
 
 # **Los fármacos después de Lipinski**
 
@@ -24,6 +19,8 @@ Como se puede observar, cada regla incluye un parámetro que es múltiplo de cin
 
 
 # **Evaluar para elegir, elegir para decidir**
+Debido a la relevancia de la _Regla de los cinco_, hemos desarrollado un pequeño programa que permite evaluar cada factor establecido por el Dr. Lipinski. Está desarrollado en lenguaje Python, por lo que puede utilizarse fácilmente. 
+
 
 
 ```markdown
