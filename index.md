@@ -60,6 +60,10 @@ else:
 
 Esta calculadora, pretende facilitar la evaluación del potencial de un compuesto para llegar a ser un fármaco exitoso, de acuerdo a las cualidades que el Dr. Lipinski ha identificado como indispensables para que tenga los efectos esprados en el cuerpo humano. 
 
+
+###Video
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PLj1-CMNERM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ### Referencias
 - Chris Lipinski. Nat Rev Drug Discov 4, 184 (2005). [https://doi.org/10.1038/nrd1686](https://doi.org/10.1038/nrd1686)
 - Dr. Christopher A. Lipinski. Melior Discovery. 2021. [https://www.meliordiscovery.com/christopher-lipinski/](https://www.meliordiscovery.com/christopher-lipinski/)
