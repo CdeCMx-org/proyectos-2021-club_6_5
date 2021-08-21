@@ -15,6 +15,8 @@ La hoy famosa _Regla de los cinco_, establece las reglas empíricas que un fárm
 3. No debe tener más de 10 aceptores de puentes de hidrógeno. 
 4. Debe tener un partición octanol-agua (logP) inferior a 5.
 
+<img src="07150343010204.gif" width=400>
+
 Como se puede observar, cada regla incluye un parámetro que es múltiplo de cinco, factor que dio origen al nombre de la regla misma. Esta regla, se ha convertido en la base para la evaluación del potencial de un fármaco para convertirse en medicina. Su importancia radica en que permite diferenciar fácilmente los compuestos sin probabilidad de éxito de aquellos que son viables, lo que a su vez brinda la posibilidad de enfocar las pruebas físicas y biológicas en fármacos que el cuerpo humano es capaz de procesar y utilizar para su beneficio.
 
 
