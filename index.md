@@ -108,18 +108,5 @@ Respetuosamente: Vianca y Karla
 
   
   
-  <img src="Logo_CdeCMx.png" width=170>   <img src="51e2d4f5eec5aca8414739932d81e26b7749bf12.png" width=150>   <img src="R.png" width=160>
+  <img src="Logo_CdeCMx.png" width=180>   <img src="51e2d4f5eec5aca8414739932d81e26b7749bf12.png" width=150>   <img src="R.png" width=160>
   
-  
-  
-  
-  
-  
-  
-- Karla Adriana Pineda López
-
-  Lic en Biomedicina, Instituto de Fisiología, Benemérita Universidad Autónoma de Puebla
-  
-  Contacto: pinedalopezkarla@gmail.com
-
-  <img src="Logo_CdeCMx.png" width=180>   <img src="51e2d4f5eec5aca8414739932d81e26b7749bf12.png" width=130>
