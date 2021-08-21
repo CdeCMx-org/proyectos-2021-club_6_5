@@ -1,3 +1,9 @@
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Nanum+Gothic&display=swap" rel="stylesheet">
+
+
+
 # **Los fármacos después de Lipinski**
 
 Hace veinte años, un químico curioso y apasionado por su trabajo, revolucionó el descubrimiento de nuevos fármacos. Su nombre es **Crhistopher Lipinski** y su _Regla de los cinco_ constituye hoy en día el primer paso para evaluar el potencial de cualquier compuesto para ser procesado de manera adecuada por el cuerpo humano. 
