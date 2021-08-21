@@ -6,13 +6,6 @@ Hace veinte años, un químico curioso y apasionado por su trabajo, revolucionó
 
 El Dr. Lipinsky se apasionó p _"Advanced Drug Delivery Reviews"_ 
 
-You can use the [editor on GitHub](https://github.com/CdeCMx-org/proyectos-2021-club_6_5/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
 
@@ -48,6 +41,15 @@ if logP <= 5:
 else:
    print('No cumple con las reglas')
 ```
+
+You can use the [editor on GitHub](https://github.com/CdeCMx-org/proyectos-2021-club_6_5/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+
+Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+
+### Markdown
+
+Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+
 
 ```markdown
 Syntax highlighted code block
