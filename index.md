@@ -62,6 +62,8 @@ else:
 
 Esta calculadora, pretende facilitar la evaluación del potencial de un compuesto para llegar a ser un fármaco exitoso, de acuerdo a las cualidades que el Dr. Lipinski ha identificado como indispensables para que tenga los efectos esprados en el cuerpo humano. 
 
+[Da click aquí para acceder a la calculadora](https://colab.research.google.com/drive/1-z3ID-58RSfkSvnZbWsI0UwK33zzNT1k?usp=sharing)
+
 
 ### Video
 
