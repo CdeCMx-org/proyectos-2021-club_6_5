@@ -78,4 +78,7 @@ Esta calculadora, pretende facilitar la evaluación del potencial de un compuest
 
 <img src="51e2d4f5eec5aca8414739932d81e26b7749bf12.png" width=200>
 
+<img src="R.png" width=200>
+
+
 
