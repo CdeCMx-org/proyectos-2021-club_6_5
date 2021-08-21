@@ -53,8 +53,8 @@ else:
 
 
 ### Referencias
-- Chris Lipinski. Nat Rev Drug Discov 4, 184 (2005). [Link](https://doi.org/10.1038/nrd1686)
-- Dr. Christopher A. Lipinski. Melior Discovery. 2021. [Link](https://www.meliordiscovery.com/christopher-lipinski/)
+- Chris Lipinski. Nat Rev Drug Discov 4, 184 (2005). [https://doi.org/10.1038/nrd1686](https://doi.org/10.1038/nrd1686)
+- Dr. Christopher A. Lipinski. Melior Discovery. 2021. [https://www.meliordiscovery.com/christopher-lipinski/](https://www.meliordiscovery.com/christopher-lipinski/)
 
 
 
