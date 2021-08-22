@@ -81,7 +81,7 @@ Respetuosamente: Vianca y Karla
 
 ### Video
 
-[Da click aquí para acceder a nuestro video](https://youtu.be/rmXvlBPq24Q)
+[Da click aquí para acceder a nuestro video](https://www.youtube.com/watch?v=E8h7xXX6y_k)
 
 
 ### Referencias
